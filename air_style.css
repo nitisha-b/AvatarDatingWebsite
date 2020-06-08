@@ -5,3 +5,33 @@ body{
 	align-items: center;
 
 }
+
+.jumbotron{
+	margin-top: 80px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 30px;
+	background-color: rgba(126,164,179,0.6);
+}
+
+.box-content{
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
+.card{
+	width: 22rem;
+	height: 25rem;
+}
+
+.carousel{
+	height: 25rem;
+}
+
+.carousel-item{
+	height: auto;
+}
+
+
+
