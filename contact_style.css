@@ -1,0 +1,22 @@
+body{
+	background-color: rgb(223, 216, 220);
+	align-items: center;
+}
+
+.card{
+	padding: 10px;
+	background-image: url(Assets/contacts_background.jpg);
+	background-size: cover;
+	margin-top: 100px;
+	margin-bottom: 50px;
+	width: 40rem;
+}
+
+label{
+	margin-bottom: 3px;
+}
+
+input{
+	margin-bottom: 10px;
+}
+
