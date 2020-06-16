@@ -6,7 +6,7 @@ This is a "dating profile" for four of the main characters from Avatar: The Last
 
 <br>
 
-<img src="http://g.recordit.co/NdAqucjeH5.gif" width="500">
+<img src="http://g.recordit.co/NdAqucjeH5.gif">
 
 
   
