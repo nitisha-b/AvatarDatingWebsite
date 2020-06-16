@@ -8,9 +8,9 @@ This is a "dating profile" for four of the main characters from Avatar: The Last
 
 <!-- ![](http://g.recordit.co/NdAqucjeH5.gif) -->
 
-<img src="Screenshots/index.png" width=600><br>
-<img src="Screenshots/air.png" width=600><br>
-<img src="Screenshots/water.png" width=250>
-<img src="Screenshots/earth.png" width=250><br>
-<img src="Screenshots/fire.png" width=250>
-<img src="Screenshots/contact.png" width=250>
+<img src="Screenshots/index.png" width=700><br>
+<img src="Screenshots/air.png" width=700><br>
+<img src="Screenshots/water.png" width=400>
+<img src="Screenshots/earth.png" width=400><br>
+<img src="Screenshots/fire.png" width=400>
+<img src="Screenshots/contact.png" width=400>
