@@ -6,4 +6,11 @@ This is a "dating profile" for four of the main characters from Avatar: The Last
 
 <br>
 
-![](http://g.recordit.co/NdAqucjeH5.gif)
+<!-- ![](http://g.recordit.co/NdAqucjeH5.gif) -->
+
+<img src="Screenshots/index.png" width=600><br>
+<img src="Screenshots/air.png" width=600><br>
+<img src="Screenshots/water.png" width=600>
+<img src="Screenshots/earth.png" width=600><br>
+<img src="Screenshots/fire.png" width=600>
+<img src="Screenshots/contact.png" width=600>
