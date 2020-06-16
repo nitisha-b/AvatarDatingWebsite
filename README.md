@@ -10,7 +10,7 @@ This is a "dating profile" for four of the main characters from Avatar: The Last
 
 <img src="Screenshots/index.png" width=600><br>
 <img src="Screenshots/air.png" width=600><br>
-<img src="Screenshots/water.png" width=600>
-<img src="Screenshots/earth.png" width=600><br>
-<img src="Screenshots/fire.png" width=600>
-<img src="Screenshots/contact.png" width=600>
+<img src="Screenshots/water.png" width=250>
+<img src="Screenshots/earth.png" width=250><br>
+<img src="Screenshots/fire.png" width=250>
+<img src="Screenshots/contact.png" width=250>
