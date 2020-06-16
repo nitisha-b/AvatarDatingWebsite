@@ -6,4 +6,4 @@ This is a "dating profile" for four of the main characters from Avatar: The Last
 
 <br>
 
-![](http://g.recordit.co/QWPVpIARes.gif)
+![](http://g.recordit.co/NdAqucjeH5.gif)
