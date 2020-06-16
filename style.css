@@ -22,7 +22,7 @@ body{
 }
 
 .card-deck{
-	align-items: center;
+	align-content: center;
 	padding-top: 10px;
 }
 
@@ -44,3 +44,5 @@ body{
 	align-content: center;
 
 }
+
+

@@ -11,7 +11,7 @@ body{
 	margin-left: 20px;
 	margin-right: 20px;
 	margin-bottom: 30px;
-	background-color: rgba(126,164,179,0.6);
+	background-color: rgba(255,255,255,0.4);
 }
 
 .box-content{
@@ -23,6 +23,7 @@ body{
 .card{
 	width: 22rem;
 	height: 25rem;
+	background-color: grey;
 }
 
 .carousel{
@@ -31,6 +32,10 @@ body{
 
 .carousel-item{
 	height: auto;
+}
+
+#bio{
+	padding-top: 10px;
 }
 
 
